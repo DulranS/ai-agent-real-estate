@@ -1,0 +1,6 @@
+requests
+pandas
+openpyxl
+groq
+python-dotenv
+numpy
