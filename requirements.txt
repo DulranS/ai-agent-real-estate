@@ -4,3 +4,7 @@ openpyxl
 groq
 python-dotenv
 numpy
+sentence-transformers
+chromadb
+requests
+openpyxl
